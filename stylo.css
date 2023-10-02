@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(209, 209, 242);
+    color: rgb(63, 63, 117);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+.config{
+    background-color: rgb(157, 157, 244);
+    color: rgb(63, 63, 117);;
+    width: 80%;
+}
+
+.box{
+    text-align: center;
+    background-color: rgb(96, 96, 232);
+    color: #ffffff;
+}
+
+.centralizado{
+    text-align: center;
+}
+
+.tamanho{
+    font-size: 24px;
+}
+
+.margem{
+    margin: 80px;
+}
+
+.preenchimento{
+    margin: 0;
+    padding: 80px;
+}
+
+.borda{
+    margin: 0;
+    border: 20px solid rgb(81, 81, 197);
+}
+
+a{
+    text-decoration: none;
+    padding: 7px;
+    border-radius: 2.5px;
+}
+
+a:hover{
+    color: #BE9AE6;
+    background-color: rgb(26, 26, 104);
+}
